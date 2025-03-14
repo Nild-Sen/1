@@ -1,3 +1,3 @@
 # Оптимізація зображень за допомогою Squoosh
 
-    ![](img/1 3x retina.jpg)
+    ![](https://github.com/Nild-Sen/1/blob/main/img/1%203x%20retina.jpg)
