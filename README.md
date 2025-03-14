@@ -1,3 +1,3 @@
 # Оптимізація зображень за допомогою Squoosh
 
-![xcvcv](img/1-3x-retina.jpg)
+<img src = "img/1 3x retina.jpg" width = "200">
